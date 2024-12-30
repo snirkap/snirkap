@@ -1,12 +1,16 @@
 [![MasterHead](https://thumbs.dreamstime.com/z/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg?w=992)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm snir kapah</h1>
-<h3 align="center">A passionate DevOps engineer from israel</h3>
+<h3 align="center">A passionate DevOps engineer who loves solving problems and automating processes
+to improve effciency and reliability. I enjoy working with others and helping them
+succeed, always striving to make valuable contributions that help the company grow.
+Outside of work, I like playing guitar, surfng, reading, and staying active through
+training. I believe in always learning and improving in both my work and personal life.</h3>
 <img align="right" alt="Coding" width="400" src="https://ticvic.com/wp-content/uploads/2023/02/why-ticvic.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snirkap&label=Profile%20views&color=0e75b6&style=flat" alt="snirkap" /> </p>
 
 - 💬 Ask me about **All the new technologies of DevOps**
 
-- 📫 How to reach me **snirwork1@gmail.com**
+- 📫 How to reach me **snir.kapah.devops1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
