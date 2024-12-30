@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/z/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg?w=992)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm snir kapah</h1>
-<h3 align="center">A passionate DevOps engineer who loves solving problems and automating processes
+<h3 align="center">A passionate DevOps engineer who loves solving problems<br>and automating processes
 to improve effciency and reliability.<br>I enjoy working with others and helping them
 succeed,<br>always striving to make valuable contributions that help the company grow.<br>
 Outside of work, I like playing guitar, surfng, reading, and staying active through
