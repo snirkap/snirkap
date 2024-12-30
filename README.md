@@ -10,7 +10,7 @@ training.<br>I believe in always learning and improving in both my work and pers
 
 - 💬 Ask me about **All the new technologies of DevOps**
 
-- 📫 How to reach me **snir.kapah.devops1@gmail.com**
+- 📫 How to reach me **snir.kapah.devops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
