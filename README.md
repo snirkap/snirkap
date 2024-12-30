@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm snir kapah</h1>
 <h3 align="center">A passionate DevOps engineer who loves solving problems and automating processes
 to improve effciency and reliability.<br>I enjoy working with others and helping them
-succeed, always striving to make valuable contributions that help the company grow.<br>
+succeed,<br>always striving to make valuable contributions that help the company grow.<br>
 Outside of work, I like playing guitar, surfng, reading, and staying active through
-training.<br> I believe in always learning and improving in both my work and personal life.</h3>
+training.<br>I believe in always learning and improving in both my work and personal life.</h3>
 <img align="right" alt="Coding" width="400" src="https://ticvic.com/wp-content/uploads/2023/02/why-ticvic.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snirkap&label=Profile%20views&color=0e75b6&style=flat" alt="snirkap" /> </p>
 
